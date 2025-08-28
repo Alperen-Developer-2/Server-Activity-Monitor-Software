@@ -4,11 +4,14 @@
 
 ![Rust](https://img.shields.io/badge/Rust-1.70%252B-orange?logo=rust)
 ![C](https://img.shields.io/badge/C-11%252B-blue?logo=c)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)
 
 ---
 
+📄 [Lisans (LISANCE.md)](./LISANCE.md)  
+☕ [Donate (donate.md)](./donate.md)
+
+---
 ## 📋 Features
 
 ### 🔍 System Monitoring
